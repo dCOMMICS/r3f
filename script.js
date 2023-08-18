@@ -13,6 +13,7 @@ const Mesh = new THREE.Mesh(geometry, material)
  // const cube = new THREE.Mesh(geometry, material);
 scene.add(cube);
 
+
 // camera //
 const camera = new THREE.PerspectiveCamera();
 // const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
