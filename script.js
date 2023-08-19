@@ -20,6 +20,7 @@ const camera = new THREE.PerspectiveCamera();
 scene.add(camera);
 camera.position.z = 5 ;
 
+
 // renderer //
 // delete scene//
 
