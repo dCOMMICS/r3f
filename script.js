@@ -22,9 +22,14 @@ camera.position.z = 5 ;
 
 // renderer //
 // delete scene//
-    
+
 const renderer = new THREE.WebGLRenderer({ antialias: true });
 renderer.setSize(window.innerWidth, window.innerHeight);
 document.body.appendChild(renderer.domElement);
 
 // light //
+
+
+
+
+//
