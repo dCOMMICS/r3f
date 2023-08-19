@@ -73,3 +73,5 @@ gsap.utils.toArray(".comparisonSection").forEach(section => {
 	  // ...and the image the opposite way (at the same time)
 	  .fromTo(section.querySelector(".afterImage img"), {xPercent: -100, x: 0}, {xPercent: 0}, 0);
 });
+
+// end of code //
