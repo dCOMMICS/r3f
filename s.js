@@ -68,3 +68,5 @@ console.log("Yahuda")
 
 let Person = "lilian"; // this is not allowed//.
 
+console.log(Person)
+
