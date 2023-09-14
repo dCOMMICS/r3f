@@ -66,5 +66,5 @@ console.log(age + "1");
 
 console.log("Yahuda")
 
-let Person = "lilian"; 
+let Person = "lilian"; // this is not allowed//.
 
