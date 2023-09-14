@@ -60,8 +60,11 @@ console.log(secondName)
 console.log(age + "1");
 
 // rules //
-no use of reserved keywords
+// no use of reserved keywords
 
-dont start a variable with upper case letters
+// dont start a variable with upper case letters
 
+console.log("Yahuda")
+
+let Person = "lilian"; 
 
