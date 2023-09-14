@@ -22,4 +22,24 @@ const filteredItems = items.filter((item) => {
 return item.price >= 70         // if price is greater  than  or equal to   70 . 
 })
 
-console.log(filteredItems)
+console.log(filteredItems);
+
+
+// DSA in javascript //
+
+// 1. Arrays
+// 2. String
+// 3. Recursion
+// 4. Objects
+
+// 1 palindrome number 
+
+// input x = 78;       output: true
+
+// input x = 15        output: false
+
+const isPalindrome = function(x) {
+    return x === x.toString().split("")
+
+}
+
