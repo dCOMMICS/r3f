@@ -62,4 +62,6 @@ console.log(age + "1");
 // rules //
 no use of reserved keywords
 
+dont start a variable with upper case letters
+
 
