@@ -59,4 +59,6 @@ console.log(secondName)
 
 console.log(age + "1");
 
+// rules //
+
 
