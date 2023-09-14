@@ -60,5 +60,6 @@ console.log(secondName)
 console.log(age + "1");
 
 // rules //
+no use of reserved keywords
 
 
