@@ -43,3 +43,16 @@ const isPalindrome = function(x) {
 
 }
 
+
+let js = "funny";
+
+console.log(40 + 8 + 23 - 10);
+
+console.log("Yahoo Boy")
+console.log(23);
+
+let secondName = "Olauwyi" // declared a variable (secondName is being Olauwyi)
+
+console.log(secondName)
+
+
