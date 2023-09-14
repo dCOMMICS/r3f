@@ -53,6 +53,10 @@ console.log(23);
 
 let secondName = "Olauwyi" // declared a variable (secondName is being Olauwyi)
 
+let age = 17;
+
 console.log(secondName)
+
+console.log(age + "1");
 
 
