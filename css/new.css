@@ -1,0 +1,21 @@
+p{
+    color: pink;
+}
+
+h1{
+
+background-color: aquamarine;
+color: black;
+}
+
+h2{
+    color: hsl(14, 24%, 50);
+}
+
+h3{
+    color: hsla(15, 45, 20, 0.3);
+}
+
+h4{
+    color: rgba(120, 204, 38, 0.9);
+}
